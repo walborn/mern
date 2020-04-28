@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://waborn:mongo80r@cluster0-7hl1r.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "catwalk",
+  "baseUrl": "http://localhost:5000"
+}
